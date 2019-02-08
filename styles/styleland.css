@@ -1,0 +1,77 @@
+body {
+background: white;
+color: black;
+font-family: Trebuchet MS, Arial, Times New Roman;
+font-size: 20px;
+	}
+#container {
+background: white;
+margin: 10px auto;
+width: 1850px;
+height: 2200px;
+	}
+#header {
+background: white;
+margin: 0 auto;
+height: 100px;
+font-size: 30px;
+width: 900px;
+text-align: center;
+font-family:'Anton', cursive;
+}
+#header a {
+		text-decoration: none;
+		color: black;
+}
+#menu {
+background: white;
+margin: 0 auto;
+width: 1000px;
+height: 50px;
+font-size: 20px;
+}
+#stroka {
+       margin: auto;
+       padding: 0;
+       list-style-type: none;
+       text-align: center;
+}
+#stroka li { 
+        display: inline;
+}
+ #stroka a {
+        color: black;
+        font-size: 30px;
+        font-family: 'Indie Flower', cursive;
+        padding: 7px 15px;
+        text-decoration: none;
+        display: inline-block;
+        width: 150px;
+}
+#content {
+background: white;
+margin: 0 auto;
+width: 1820px;
+height: 1850px;
+}
+hr {
+	background-color: black;
+	height: 5px;
+}
+.instagram {
+	background: white;
+	font-family: 'Dancing Script', cursive;
+width: 400px;
+height: 150px;
+	margin: 1px 5px 10px 1500px;
+	font-size: 50px;
+}
+.contacts {
+	background: white;
+	font-family: 'Dancing Script', cursive;
+	width: 500px;
+height: 50px;
+	margin-left: 40%;
+	padding: 10px;
+	font-size: 40px;
+}

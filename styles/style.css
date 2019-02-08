@@ -1,0 +1,160 @@
+body {
+background: white;
+color: black;
+font-family: Trebuchet MS, Arial, Times New Roman;
+font-size: 20px;
+	}
+#container {
+background: white;
+margin: 10px auto;
+width: 1850px;
+height: 2500px;
+	}
+#header {
+background: white;
+margin: 0 auto;
+height: 100px;
+font-size: 30px;
+width: 900px;
+text-align: center;
+font-family:'Anton', cursive;
+}
+#menu {
+background: white;
+margin: 0 auto;
+width: 1000px;
+height: 50px;
+font-size: 20px;
+}
+#stroka {
+       margin: auto;
+       padding: 0;
+       list-style-type: none;
+       text-align: center;
+}
+#stroka li { 
+        display: inline;
+}
+ #stroka a {
+        color: black;
+        font-size: 30px;
+        font-family: 'Indie Flower', cursive;
+        padding: 7px 15px;
+        text-decoration: none;
+        display: inline-block;
+        width: 150px;
+}
+#content {
+background: red;
+margin: 0 auto;
+width: 1000px;
+height: 600px;
+}
+#portrets {
+  background: white;
+margin: 0 auto;
+width: 920px;
+height: 430px;  
+}
+.stroka {
+background: white;
+margin: 1 px;
+width: 300px;
+height: 430px;
+    display: inline-block;
+}
+.stroka p {
+    text-align: center;
+    padding: 380px 5px;
+}
+.stroka a { 
+    text-decoration: none;
+    color: black;
+	font-size: 30px;
+}
+.portretsimeges {
+background: white;
+margin: 0 auto;
+width: 600px;
+height: 430px;
+    display: inline-block;
+}
+#landscapes {
+  background: white;
+margin: 0 auto;
+width: 920px;
+height: 430px;  
+}
+.strokadva {
+background: white;
+margin: 1 px;
+width: 300px;
+height: 430px;
+    display: inline-block;
+}
+.strokadva p {
+    text-align: center;
+    padding: 380px 5px;
+}
+.strokadva a { 
+    text-decoration: none;
+    color: black;
+	font-size: 30px;
+}
+.landscapesimeges {
+background: white;
+margin: 0 auto;
+width: 600px;
+height: 430px;
+    display: inline-block;
+}
+#cities {
+  background: white;
+margin: 0 auto;
+width: 920px;
+height: 430px;  
+}
+.strokatri {
+background: white;
+margin: 1 px;
+width: 300px;
+height: 430px;
+    display: inline-block;
+}
+.strokatri p {
+    text-align: center;
+    padding: 380px 5px;
+}
+.strokatri a { 
+    text-decoration: none;
+    color: black;
+	font-size: 30px;
+}
+.citiesimeges {
+background: white;
+margin: 0 auto;
+width: 600px;
+height: 430px;
+    display: inline-block;
+}
+hr {
+	background-color: black;
+	height: 5px;
+}
+.instagram {
+	background: white;
+	font-family: 'Dancing Script', cursive;
+width: 400px;
+height: 150px;
+	margin: 1px 5px 10px 1500px;
+	font-size: 50px;
+}
+.contacts {
+	background: white;
+	font-family: 'Dancing Script', cursive;
+	width: 600px;
+height: 50px;
+	margin-left: 40%;
+	padding: 10px;
+	font-size: 40px;
+}

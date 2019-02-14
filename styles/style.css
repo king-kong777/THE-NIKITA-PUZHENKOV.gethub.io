@@ -137,6 +137,10 @@ width: 600px;
 height: 430px;
     display: inline-block;
 }
+#footer{
+	background: blue;
+	width: 100%;
+}
 hr {
 	background-color: black;
 	height: 5px;

@@ -98,7 +98,6 @@ var myFotos = new Array
  "images/startpage/96.jpg",
  "images/startpage/97.jpg",
  "images/startpage/98.jpg",
- "images/startpage/99.jpg",
  "images/startpage/100.jpg",
  "images/startpage/101.jpg");
 var sluch = Math.floor(Math.random() * myFotos.length);
@@ -204,7 +203,6 @@ document.getElementById('content').innerHTML=content;
  "images/startpage/96.jpg",
  "images/startpage/97.jpg",
  "images/startpage/98.jpg",
- "images/startpage/99.jpg",
  "images/startpage/100.jpg",
  "images/startpage/101.jpg");
 var sluch = Math.floor(Math.random() * myFotos.length);
